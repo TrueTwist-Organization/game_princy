@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="hyygames Privacy Policy">
-    <title>Privacy Policy | game.GamerZone.online</title>
+    <title>Privacy Policy | GamerZone</title>
     <style>
         body {
             background-color: #fafbff;
@@ -90,7 +90,7 @@
 
   googletag.cmd.push(() => {
     interstitialSlot = googletag.defineOutOfPageSlot(
-      '/269265836/game.GamerZone.online_display_Inter',
+      '/269265836/GamerZone_display_Inter',
       googletag.enums.OutOfPageFormat.INTERSTITIAL
     );
 
@@ -137,7 +137,7 @@ googletag.enableServices();
 
     <h1>Privacy Policy</h1>
 
-    <p><strong>Last updated:</strong> March 22, 2025</p>
+    <p><strong>Last updated:</strong> July 09, 2026</p>
     <!-- Back to Home Button -->
     <a href="../index.php" class="btn-home">Back to Home</a>
     
@@ -208,7 +208,7 @@ googletag.enableServices();
     <p>Your information may be transferred and processed in other countries. By using our Service, you agree to such transfers.</p>
 
     <h3>Deleting Your Personal Data</h3>
-    <p>You may request data deletion by contacting us at <a href="mailto:ads@komalpankhfashion.in">ads@komalpankhfashion.in</a>. Certain data may be retained to meet legal requirements.</p>
+    <p>You may request data deletion by contacting us at <a href="mailto:contact@gamerzone.com">contact@gamerzone.com</a>. Certain data may be retained to meet legal requirements.</p>
 
     <h3>Disclosure of Your Personal Data</h3>
     <p>Your data may be disclosed:</p>
@@ -230,7 +230,7 @@ googletag.enableServices();
     <h3>Contact Us</h3>
     <p>If you have any questions about this Privacy Policy, contact us at:</p>
     <ul>
-        <li>Email: <a href="mailto:ads@komalpankhfashion.in">ads@komalpankhfashion.in</a></li>
+        <li>Email: <a href="mailto:contact@gamerzone.com">contact@gamerzone.com</a></li>
     </ul>
 
   

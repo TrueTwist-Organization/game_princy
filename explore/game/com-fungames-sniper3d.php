@@ -11,11 +11,11 @@
   <meta content="yes" name="apple-mobile-web-app-capable" />
   <meta content="yes" name="apple-touch-fullscreen" />
   <meta content="telephone=no,email=no" name="format-detection" />
-  <title>Get Sniper 3D: Gun Shooting Games for Free | game.GamerZone.online</title>
+  <title>Get Sniper 3D: Gun Shooting Games for Free | GamerZone</title>
   <meta name="og:type" property="og:type" content="website" />
   <meta name="og:title" property="og:title"
-    content="Get Sniper 3D: Gun Shooting Games for Free | game.GamerZone.online" />
-  <meta name="og:site_name" property="og:site_name" content="game.GamerZone.online" />
+    content="Get Sniper 3D: Gun Shooting Games for Free | GamerZone" />
+  <meta name="og:site_name" property="og:site_name" content="GamerZone" />
   <meta name="og:description" property="og:description"
     content="Download Sniper 3D: Gun Shooting Games for free and enjoy a hassle-free installation. Completely secure with zero viruses or malware. Always stay updated with the latest version effortlessly." />
   <meta name="description"
@@ -2385,7 +2385,7 @@
     <div class="line"></div>
     <div class="footer-content" style="max-width: 1030px">
       <p style="font-size: 16px;  margin-bottom: 30px">
-        Welcome to game.GamerZone.online, here we have the best games including
+        Welcome to GamerZone, here we have the best games including
         strategy games, RPG games, horror games, simulation games, shooting
         games, casual games and many more kinds of games. Wed offer free game
         apk to download. Discover the best games and download faster, easier and
@@ -2395,7 +2395,7 @@
 
         <br><br>
         1. Independent Platform
-        game.GamerZone.online is an independent content platform and does not develop, own, or publish any of the
+        GamerZone is an independent content platform and does not develop, own, or publish any of the
         games or
         applications featured on this website. We are not affiliated with or endorsed by any official game
         developers
@@ -2451,7 +2451,7 @@
         <a href="../contact.php" title="About">Contact</a><a href="../privacy.php" title="Privacy">Privacy
           Policy</a><a href="../terms.php" title="Terms">Terms Of Services</a>
       </div>
-      <p class="introduce">&copy; game.GamerZone.online</p>
+      <p class="introduce">&copy; GamerZone</p>
     </div>
   </footer>
   <div class="body-loading">

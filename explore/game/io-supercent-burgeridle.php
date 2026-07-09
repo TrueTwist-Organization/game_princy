@@ -11,10 +11,10 @@
   <meta content="yes" name="apple-mobile-web-app-capable" />
   <meta content="yes" name="apple-touch-fullscreen" />
   <meta content="telephone=no,email=no" name="format-detection" />
-  <title>Get Burger Please! Free of Charge | game.GamerZone.online</title>
+  <title>Get Burger Please! Free of Charge | GamerZone</title>
   <meta name="og:type" property="og:type" content="website" />
-  <meta name="og:title" property="og:title" content="Get Burger Please! Free of Charge | game.GamerZone.online" />
-  <meta name="og:site_name" property="og:site_name" content="game.GamerZone.online" />
+  <meta name="og:title" property="og:title" content="Get Burger Please! Free of Charge | GamerZone" />
+  <meta name="og:site_name" property="og:site_name" content="GamerZone" />
   <meta name="og:description" property="og:description"
     content="Discover Burger Please! - available for free download and simple installation. Completely secure with no threats or harmful content. Always easily access the most recent version." />
   <meta name="description"
@@ -2357,7 +2357,7 @@
     <div class="line"></div>
     <div class="footer-content" style="max-width: 1030px">
       <p style="font-size: 16px;  margin-bottom: 30px">
-        Welcome to game.GamerZone.online, here we have the best games including
+        Welcome to GamerZone, here we have the best games including
         strategy games, RPG games, horror games, simulation games, shooting
         games, casual games and many more kinds of games. Wed offer free game
         apk to download. Discover the best games and download faster, easier and
@@ -2367,7 +2367,7 @@
 
         <br><br>
         1. Independent Platform
-        game.GamerZone.online is an independent content platform and does not develop, own, or publish any of the
+        GamerZone is an independent content platform and does not develop, own, or publish any of the
         games or
         applications featured on this website. We are not affiliated with or endorsed by any official game
         developers
@@ -2423,7 +2423,7 @@
         <a href="../contact.php" title="About">Contact</a><a href="../privacy.php" title="Privacy">Privacy
           Policy</a><a href="../terms.php" title="Terms">Terms Of Services</a>
       </div>
-      <p class="introduce">&copy; game.GamerZone.online</p>
+      <p class="introduce">&copy; GamerZone</p>
     </div>
   </footer>
   <div class="body-loading">

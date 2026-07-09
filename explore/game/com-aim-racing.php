@@ -2428,7 +2428,7 @@
     <div class="line"></div>
     <div class="footer-content" style="max-width: 1030px">
       <p style="font-size: 16px;  margin-bottom: 30px">
-        Welcome to game.GamerZone.online, here we have the best games including
+        Welcome to GamerZone, here we have the best games including
         strategy games, RPG games, horror games, simulation games, shooting
         games, casual games and many more kinds of games. Wed offer free game
         apk to download. Discover the best games and download faster, easier and
@@ -2438,7 +2438,7 @@
 
         <br><br>
         1. Independent Platform
-        game.GamerZone.online is an independent content platform and does not develop, own, or publish any of the
+        GamerZone is an independent content platform and does not develop, own, or publish any of the
         games or
         applications featured on this website. We are not affiliated with or endorsed by any official game
         developers

@@ -7,8 +7,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Terms and Conditions | game.GamerZone.online">
-    <title>Terms and Conditions | game.GamerZone.online</title>
+    <meta name="description" content="Terms and Conditions | GamerZone">
+    <title>Terms and Conditions | GamerZone</title>
     <style>
         body {
             background-color: #fdfdff;
@@ -90,7 +90,7 @@
 
   googletag.cmd.push(() => {
     interstitialSlot = googletag.defineOutOfPageSlot(
-      '/269265836/game.GamerZone.online_display_Inter',
+      '/269265836/GamerZone_display_Inter',
       googletag.enums.OutOfPageFormat.INTERSTITIAL
     );
 
@@ -136,7 +136,7 @@ googletag.enableServices();
 </script>
 
     <h1>Terms and Conditions</h1>
-    <p><strong>Last updated:</strong> March 22, 2025</p>
+    <p><strong>Last updated:</strong> July 09, 2026</p>
     <!-- Back to Home Button -->
     <a href="../index.php" class="btn-home">Back to Home</a>
 
@@ -201,7 +201,7 @@ googletag.enableServices();
     <h2>Contact Us</h2>
     <p>If You have any questions or concerns about these Terms and Conditions, please contact us:</p>
     <ul>
-        <li>Email: <a href="mailto:contact@game.GamerZone.online">contact@game.GamerZone.online</a></li>
+        <li>Email: <a href="mailto:contact@gamerzone.com">contact@gamerzone.com</a></li>
     </ul>
 
   

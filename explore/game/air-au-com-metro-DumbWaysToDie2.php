@@ -11,11 +11,11 @@
     <meta content="yes" name="apple-mobile-web-app-capable" />
     <meta content="yes" name="apple-touch-fullscreen" />
     <meta content="telephone=no,email=no" name="format-detection" />
-    <title>Get Dumb Ways to Die 2: The Games for Free | game.GamerZone.online</title>
+    <title>Get Dumb Ways to Die 2: The Games for Free | GamerZone</title>
     <meta name="og:type" property="og:type" content="website" />
     <meta name="og:title" property="og:title"
-        content="Get Dumb Ways to Die 2: The Games for Free | game.GamerZone.online" />
-    <meta name="og:site_name" property="og:site_name" content="game.GamerZone.online" />
+        content="Get Dumb Ways to Die 2: The Games for Free | GamerZone" />
+    <meta name="og:site_name" property="og:site_name" content="GamerZone" />
 
     <meta name="og:description" property="og:description"
         content="Experience Dumb Ways to Die 2: The Games - free to download and simple to set up. Completely secure with no viruses or malware. Always easily get the most recent version." />
@@ -2877,13 +2877,13 @@
                     <script>
                         window.googletag = window.googletag || { cmd: [] };
                         googletag.cmd.push(function () {
-                            googletag.defineSlot('/269265836/game.GamerZone.online_display_2', [[336, 280], [728, 90], 'fluid'], 'div-gpt-ad-1765209918424-0').addService(googletag.pubads());
+                            googletag.defineSlot('/269265836/GamerZone_display_2', [[336, 280], [728, 90], 'fluid'], 'div-gpt-ad-1765209918424-0').addService(googletag.pubads());
                             googletag.pubads().enableSingleRequest();
                             googletag.pubads().setTargeting("ad_impression", window.AD_IMPRESSION);
                             googletag.enableServices();
                         });
                     </script>
-                    <!-- /269265836/game.GamerZone.online_display_2 -->
+                    <!-- /269265836/GamerZone_display_2 -->
                     <div id='div-gpt-ad-1765209918424-0' style='min-width: 300px; min-height: 90px;'>
                         <script>
                             googletag.cmd.push(function () { googletag.display('div-gpt-ad-1765209918424-0'); });
@@ -2913,7 +2913,7 @@
                 <div class="ads">
 
                     
-                    <!-- /269265836/game.GamerZone.online_display_3 -->
+                    <!-- /269265836/GamerZone_display_3 -->
                     <div id='div-gpt-ad-1765277076482-0' style='min-width: 300px; min-height: 90px;'>
                         <script>
                             googletag.cmd.push(function () { googletag.display('div-gpt-ad-1765277076482-0'); });
@@ -2944,7 +2944,7 @@
                 <div class="ads">
 
                     
-                    <!-- /269265836/game.GamerZone.online_display_1 -->
+                    <!-- /269265836/GamerZone_display_1 -->
                     <div id='div-gpt-ad-1765277171699-0' style='min-width: 300px; min-height: 90px;'>
                         <script>
                             googletag.cmd.push(function () { googletag.display('div-gpt-ad-1765277171699-0'); });
@@ -3745,7 +3745,7 @@
         <div class="line"></div>
         <div class="footer-content" style="max-width: 1030px">
             <p style="font-size: 16px;  margin-bottom: 30px">
-                Welcome to game.GamerZone.online, here we have the best games including
+                Welcome to GamerZone, here we have the best games including
                 strategy games, RPG games, horror games, simulation games, shooting
                 games, casual games and many more kinds of games. Wed offer free game
                 apk to download. Discover the best games and download faster, easier and
@@ -3755,7 +3755,7 @@
 
                 <br><br>
                 1. Independent Platform
-                game.GamerZone.online is an independent content platform and does not develop, own, or publish any of
+                GamerZone is an independent content platform and does not develop, own, or publish any of
                 the
                 games or
                 applications featured on this website. We are not affiliated with or endorsed by any official game
@@ -3813,7 +3813,7 @@
                     Policy</a><a href="../terms.php" title="Terms">Terms Of
                     Services</a>
             </div>
-            <p class="introduce">&copy; game.GamerZone.online</p>
+            <p class="introduce">&copy; GamerZone</p>
         </div>
     </footer>
     <div class="body-loading">
@@ -3851,7 +3851,7 @@
                     googletag.cmd.push(function () {
                         try {
                             const rewardedSlot = googletag
-                                .defineOutOfPageSlot('/269265836/game.GamerZone.online_reward', googletag.enums.OutOfPageFormat.REWARDED)
+                                .defineOutOfPageSlot('/269265836/GamerZone_reward', googletag.enums.OutOfPageFormat.REWARDED)
                                 .addService(googletag.pubads());
 
                             googletag.pubads().setTargeting("ad_impression", window.AD_IMPRESSION);
@@ -3889,7 +3889,7 @@
 
         googletag.cmd.push(() => {
             anchorSlot = googletag.defineOutOfPageSlot(
-                '/269265836/game.GamerZone.online_anchor',
+                '/269265836/GamerZone_anchor',
                 document.body.clientWidth <= 500
                     ? googletag.enums.OutOfPageFormat.TOP_ANCHOR
                     : googletag.enums.OutOfPageFormat.BOTTOM_ANCHOR

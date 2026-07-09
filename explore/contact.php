@@ -7,8 +7,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Contact game.GamerZone.online">
-  <title>Contact Us | game.GamerZone.online</title>
+  <meta name="description" content="Contact GamerZone">
+  <title>Contact Us | GamerZone</title>
   <style>
     body {
       background-color: #f8f8ff;
@@ -76,7 +76,7 @@
 
     googletag.cmd.push(() => {
       interstitialSlot = googletag.defineOutOfPageSlot(
-        '/269265836/game.GamerZone.online_display_Inter',
+        '/269265836/GamerZone_display_Inter',
         googletag.enums.OutOfPageFormat.INTERSTITIAL
       );
 
@@ -123,7 +123,7 @@
 
   <h1>Contact Us</h1>
   <p>Got a question or want to share your thoughts? We’d love to hear from you!</p>
-  <p>Drop us a line at <a href="mailto:ads@komalpankhfashion.in">ads@komalpankhfashion.in</a> and we’ll get back to you
+  <p>Drop us a line at <a href="mailto:contact@gamerzone.com">contact@gamerzone.com</a> and we’ll get back to you
     as soon as we can.</p>
   <p>Your feedback helps make hyygames even better. Thanks for being part of our community!</p>
 
